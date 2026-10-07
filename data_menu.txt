@@ -1,0 +1,11 @@
+Makanan;Nasi Gunting Ayam Jahe;42000;Nasi
+Makanan;Nasi Lemak Ayam Gulai;45000;Nasi
+Makanan;Nasi Ayam Gunting Kari;42000;Nasi
+Makanan;Mie Ayam;32000;Mie
+Makanan;Mee Pok;38000;Mie
+Makanan;Chilli Pan Mee;38000;Mie
+Minuman;Teh O Dingin;8000;Dingin
+Minuman;Yuenyeung Dingin;25000;Dingin
+Minuman;Milo Dinosaurus Dingin;23000;Dingin
+Makanan;nasi goreng kampung;30000;nasi
+Makanan;bb;20000;nasi
